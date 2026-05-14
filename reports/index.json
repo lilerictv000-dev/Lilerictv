@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260514-195902-3cqm",
+      "title": "Hime Utsumiya, Skylla Winds",
+      "commanders": [
+        "Hime Utsumiya",
+        "Skylla Winds"
+      ],
+      "dateStart": "2026-05-14T09:59:02.000Z",
+      "dateEnd": "2026-05-14T10:58:26.000Z",
+      "dateLabel": "14/05/2026, 19:59:02 - 14/05/2026, 20:58:26",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260514-195902-3cqm",
+      "summary": {
+        "borderlandsPct": 0.041666666666666664,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260514-110340-3lll",
       "title": "Get On Me",
       "commanders": [
