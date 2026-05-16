@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-120840-8oju",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-16T02:08:40.000Z",
+      "dateEnd": "2026-05-16T03:31:04.000Z",
+      "dateLabel": "16/05/2026, 12:08:40 - 16/05/2026, 13:31:04",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260516-120840-8oju",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260514-203304-8t8j",
       "title": "Hime Utsumiya",
       "commanders": [
