@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-110129-pcrd",
+      "title": "Jokajo",
+      "commanders": [
+        "Jokajo"
+      ],
+      "dateStart": "2026-05-22T01:01:29.000Z",
+      "dateEnd": "2026-05-22T01:40:30.000Z",
+      "dateLabel": "22/05/2026, 11:01:29 - 22/05/2026, 11:40:30",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260522-110129-pcrd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 39,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260521-122918-vwxm",
       "title": "Get On Me",
       "commanders": [
