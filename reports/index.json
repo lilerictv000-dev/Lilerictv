@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-122841-43j7",
+      "title": "Jokajo",
+      "commanders": [
+        "Jokajo"
+      ],
+      "dateStart": "2026-05-23T02:28:41.000Z",
+      "dateEnd": "2026-05-23T03:17:32.000Z",
+      "dateLabel": "23/05/2026, 12:28:41 - 23/05/2026, 13:17:32",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260523-122841-43j7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 27,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260522-110129-pcrd",
       "title": "Jokajo",
       "commanders": [
