@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-200433-kgcn",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "dateStart": "2026-05-24T10:04:33.000Z",
+      "dateEnd": "2026-05-24T11:00:27.000Z",
+      "dateLabel": "24/05/2026, 20:04:33 - 24/05/2026, 21:00:27",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260524-200433-kgcn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260523-122841-43j7",
       "title": "Jokajo",
       "commanders": [
