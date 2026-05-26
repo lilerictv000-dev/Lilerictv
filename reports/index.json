@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-201621-r3rz",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "dateStart": "2026-05-26T10:16:21.000Z",
+      "dateEnd": "2026-05-26T11:30:50.000Z",
+      "dateLabel": "26/05/2026, 20:16:21 - 26/05/2026, 21:30:50",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260526-201621-r3rz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260526-184812-5sva",
       "title": "Skylla Winds",
       "commanders": [
