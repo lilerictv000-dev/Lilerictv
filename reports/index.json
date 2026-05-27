@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-230626-w2xe",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-05-27T13:06:26.000Z",
+      "dateEnd": "2026-05-27T13:52:29.000Z",
+      "dateLabel": "27/05/2026, 23:06:26 - 27/05/2026, 23:52:29",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260527-230626-w2xe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260526-201621-pri6",
       "title": "Hime Utsumiya",
       "commanders": [
