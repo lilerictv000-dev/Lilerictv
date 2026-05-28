@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-201653-rsio",
+      "title": "Hime Utsumiya",
+      "commanders": [
+        "Hime Utsumiya"
+      ],
+      "dateStart": "2026-05-28T10:16:53.000Z",
+      "dateEnd": "2026-05-28T11:13:06.000Z",
+      "dateLabel": "28/05/2026, 20:16:53 - 28/05/2026, 21:13:06",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-201653-rsio",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260528-121716-fnzs",
       "title": "Get On Me",
       "commanders": [
