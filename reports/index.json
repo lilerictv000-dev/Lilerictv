@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260528-121716-fnzs",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-28T02:17:16.000Z",
+      "dateEnd": "2026-05-28T03:07:26.000Z",
+      "dateLabel": "28/05/2026, 12:17:16 - 28/05/2026, 13:07:26",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-121716-fnzs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260527-230626-mndt",
       "title": "Enrique Roddriguez",
       "commanders": [
