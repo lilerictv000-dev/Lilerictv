@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-124421-q9kn",
+      "title": "Dan Is My New Name, Yxck",
+      "commanders": [
+        "Dan Is My New Name",
+        "Yxck"
+      ],
+      "dateStart": "2026-05-30T02:44:21.000Z",
+      "dateEnd": "2026-05-30T03:36:57.000Z",
+      "dateLabel": "30/05/2026, 12:44:21 - 30/05/2026, 13:36:57",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260530-124421-q9kn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260528-231517-lbb0",
       "title": "Enrique Roddriguez",
       "commanders": [
