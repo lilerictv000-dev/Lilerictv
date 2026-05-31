@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-201927-naab",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "dateStart": "2026-05-31T10:19:27.000Z",
+      "dateEnd": "2026-05-31T12:05:51.000Z",
+      "dateLabel": "31/05/2026, 20:19:27 - 31/05/2026, 22:05:51",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260531-201927-naab",
+      "summary": {
+        "borderlandsPct": 0.038461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260530-124421-q9kn",
       "title": "Dan Is My New Name, Yxck",
       "commanders": [
