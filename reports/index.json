@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260602-200936-k2wy",
+      "title": "Erza Knightwálkér",
+      "commanders": [
+        "Erza Knightwálkér"
+      ],
+      "dateStart": "2026-06-02T10:09:36.000Z",
+      "dateEnd": "2026-06-02T11:02:22.000Z",
+      "dateLabel": "02/06/2026, 20:09:36 - 02/06/2026, 21:02:22",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260602-200936-k2wy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260531-201927-naab",
       "title": "Erza Knightwálkér",
       "commanders": [
