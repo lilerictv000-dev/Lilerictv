@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-230151-v9eo",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-06T13:01:51.000Z",
+      "dateEnd": "2026-06-06T13:59:39.000Z",
+      "dateLabel": "06/06/2026, 23:01:51 - 06/06/2026, 23:59:39",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260606-230151-v9eo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260604-200618-ih5l",
       "title": "Erza Knightwálkér",
       "commanders": [
