@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-224816-z7l2",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-08T12:48:16.000Z",
+      "dateEnd": "2026-06-08T13:56:17.000Z",
+      "dateLabel": "08/06/2026, 22:48:16 - 08/06/2026, 23:56:17",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-224816-z7l2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260608-125919-sx87",
       "title": "X Kears",
       "commanders": [
