@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-120107-j7sf",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "dateStart": "2026-06-08T02:01:07.000Z",
+      "dateEnd": "2026-06-08T02:05:56.000Z",
+      "dateLabel": "08/06/2026, 12:01:07 - 08/06/2026, 12:05:56",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-120107-j7sf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260608-103534-j99a",
       "title": "Ebs Nine, Nallusion",
       "commanders": [
