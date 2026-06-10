@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260610-224204-8eek",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-10T12:42:04.000Z",
+      "dateEnd": "2026-06-10T14:20:30.000Z",
+      "dateLabel": "10/06/2026, 22:42:04 - 11/06/2026, 00:20:30",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260610-224204-8eek",
+      "summary": {
+        "borderlandsPct": 0.4117647058823529,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260608-224816-z7l2",
       "title": "The Bloöp",
       "commanders": [
