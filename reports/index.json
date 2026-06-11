@@ -1,686 +1,652 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": false,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260611-003138-6oqm",
-      "title": "Ebs Nine, The Bloöp",
-      "commanders": [
-        "Ebs Nine",
-        "The Bloöp"
+[
+  {
+    "id": "20260610-224204-8eek",
+    "title": "The Bloöp",
+    "commanders": [
+      "The Bloöp"
+    ],
+    "dateStart": "2026-06-10T12:42:04.000Z",
+    "dateEnd": "2026-06-10T14:20:30.000Z",
+    "dateLabel": "10/06/2026, 22:42:04 - 11/06/2026, 00:20:30",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260610-224204-8eek",
+    "summary": {
+      "borderlandsPct": 0.4117647058823529,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 10,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
       ],
-      "dateStart": "2026-06-10T14:31:38.000Z",
-      "dateEnd": "2026-06-11T00:15:34.000Z",
-      "dateLabel": "11/06/2026, 00:31:38 - 11/06/2026, 10:15:34",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260611-003138-6oqm",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 20,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260610-224204-8eek",
-      "title": "The Bloöp",
-      "commanders": [
-        "The Bloöp"
-      ],
-      "dateStart": "2026-06-10T12:42:04.000Z",
-      "dateEnd": "2026-06-10T14:20:30.000Z",
-      "dateLabel": "10/06/2026, 22:42:04 - 11/06/2026, 00:20:30",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260610-224204-8eek",
-      "summary": {
-        "borderlandsPct": 0.4117647058823529,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 10,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260608-224816-z7l2",
-      "title": "The Bloöp",
-      "commanders": [
-        "The Bloöp"
-      ],
-      "dateStart": "2026-06-08T12:48:16.000Z",
-      "dateEnd": "2026-06-08T13:56:17.000Z",
-      "dateLabel": "08/06/2026, 22:48:16 - 08/06/2026, 23:56:17",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-224816-z7l2",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 53
-      }
-    },
-    {
-      "id": "20260608-125919-sx87",
-      "title": "X Kears",
-      "commanders": [
-        "X Kears"
-      ],
-      "dateStart": "2026-06-08T02:59:19.000Z",
-      "dateEnd": "2026-06-08T04:34:09.000Z",
-      "dateLabel": "08/06/2026, 12:59:19 - 08/06/2026, 14:34:09",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-125919-sx87",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 41,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 49
-      }
-    },
-    {
-      "id": "20260608-120107-j7sf",
-      "title": "Ebs Nine",
-      "commanders": [
-        "Ebs Nine"
-      ],
-      "dateStart": "2026-06-08T02:01:07.000Z",
-      "dateEnd": "2026-06-08T02:05:56.000Z",
-      "dateLabel": "08/06/2026, 12:01:07 - 08/06/2026, 12:05:56",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-120107-j7sf",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260608-103534-j99a",
-      "title": "Ebs Nine, Nallusion",
-      "commanders": [
-        "Ebs Nine",
-        "Nallusion"
-      ],
-      "dateStart": "2026-06-08T00:35:34.000Z",
-      "dateEnd": "2026-06-08T01:39:29.000Z",
-      "dateLabel": "08/06/2026, 10:35:34 - 08/06/2026, 11:39:29",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-103534-j99a",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 14,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 4,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 41,
-        "avgEnemySize": 54
-      }
-    },
-    {
-      "id": "20260607-223324-aw4u",
-      "title": "The Bloöp",
-      "commanders": [
-        "The Bloöp"
-      ],
-      "dateStart": "2026-06-07T12:33:24.000Z",
-      "dateEnd": "2026-06-07T13:55:53.000Z",
-      "dateLabel": "07/06/2026, 22:33:24 - 07/06/2026, 23:55:53",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260607-223324-aw4u",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260606-230151-v9eo",
-      "title": "The Bloöp",
-      "commanders": [
-        "The Bloöp"
-      ],
-      "dateStart": "2026-06-06T13:01:51.000Z",
-      "dateEnd": "2026-06-06T13:59:39.000Z",
-      "dateLabel": "06/06/2026, 23:01:51 - 06/06/2026, 23:59:39",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260606-230151-v9eo",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 11,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 41,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260604-200618-ih5l",
-      "title": "Erza Knightwálkér",
-      "commanders": [
-        "Erza Knightwálkér"
-      ],
-      "dateStart": "2026-06-04T10:06:18.000Z",
-      "dateEnd": "2026-06-04T10:58:05.000Z",
-      "dateLabel": "04/06/2026, 20:06:18 - 04/06/2026, 20:58:05",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260604-200618-ih5l",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 35,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260602-200936-k2wy",
-      "title": "Erza Knightwálkér",
-      "commanders": [
-        "Erza Knightwálkér"
-      ],
-      "dateStart": "2026-06-02T10:09:36.000Z",
-      "dateEnd": "2026-06-02T11:02:22.000Z",
-      "dateLabel": "02/06/2026, 20:09:36 - 02/06/2026, 21:02:22",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260602-200936-k2wy",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 32,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260531-201927-naab",
-      "title": "Erza Knightwálkér",
-      "commanders": [
-        "Erza Knightwálkér"
-      ],
-      "dateStart": "2026-05-31T10:19:27.000Z",
-      "dateEnd": "2026-05-31T12:05:51.000Z",
-      "dateLabel": "31/05/2026, 20:19:27 - 31/05/2026, 22:05:51",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260531-201927-naab",
-      "summary": {
-        "borderlandsPct": 0.038461538461538464,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 53
-      }
-    },
-    {
-      "id": "20260530-124421-q9kn",
-      "title": "Dan Is My New Name, Yxck",
-      "commanders": [
-        "Dan Is My New Name",
-        "Yxck"
-      ],
-      "dateStart": "2026-05-30T02:44:21.000Z",
-      "dateEnd": "2026-05-30T03:36:57.000Z",
-      "dateLabel": "30/05/2026, 12:44:21 - 30/05/2026, 13:36:57",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260530-124421-q9kn",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 21,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 11,
-        "avgEnemySize": 11
-      }
-    },
-    {
-      "id": "20260528-231517-lbb0",
-      "title": "Enrique Roddriguez",
-      "commanders": [
-        "Enrique Roddriguez"
-      ],
-      "dateStart": "2026-05-28T13:15:17.000Z",
-      "dateEnd": "2026-05-28T14:37:21.000Z",
-      "dateLabel": "28/05/2026, 23:15:17 - 29/05/2026, 00:37:21",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-231517-lbb0",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 24,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260528-201653-rsio",
-      "title": "Hime Utsumiya",
-      "commanders": [
-        "Hime Utsumiya"
-      ],
-      "dateStart": "2026-05-28T10:16:53.000Z",
-      "dateEnd": "2026-05-28T11:13:06.000Z",
-      "dateLabel": "28/05/2026, 20:16:53 - 28/05/2026, 21:13:06",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-201653-rsio",
-      "summary": {
-        "borderlandsPct": 0.05,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260528-121716-fnzs",
-      "title": "Get On Me",
-      "commanders": [
-        "Get On Me"
-      ],
-      "dateStart": "2026-05-28T02:17:16.000Z",
-      "dateEnd": "2026-05-28T03:07:26.000Z",
-      "dateLabel": "28/05/2026, 12:17:16 - 28/05/2026, 13:07:26",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-121716-fnzs",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 15,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260527-230626-mndt",
-      "title": "Enrique Roddriguez",
-      "commanders": [
-        "Enrique Roddriguez"
-      ],
-      "dateStart": "2026-05-27T13:06:26.000Z",
-      "dateEnd": "2026-05-27T13:52:29.000Z",
-      "dateLabel": "27/05/2026, 23:06:26 - 27/05/2026, 23:52:29",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260527-230626-mndt",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 29,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 55
-      }
-    },
-    {
-      "id": "20260526-201621-pri6",
-      "title": "Hime Utsumiya",
-      "commanders": [
-        "Hime Utsumiya"
-      ],
-      "dateStart": "2026-05-26T10:16:21.000Z",
-      "dateEnd": "2026-05-26T11:30:50.000Z",
-      "dateLabel": "26/05/2026, 20:16:21 - 26/05/2026, 21:30:50",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260526-201621-pri6",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 10,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260526-184812-5sva",
-      "title": "Skylla Winds",
-      "commanders": [
-        "Skylla Winds"
-      ],
-      "dateStart": "2026-05-26T08:48:12.000Z",
-      "dateEnd": "2026-05-26T09:37:27.000Z",
-      "dateLabel": "26/05/2026, 18:48:12 - 26/05/2026, 19:37:27",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260526-184812-5sva",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 11,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 36,
-        "avgEnemySize": 51
-      }
-    },
-    {
-      "id": "20260524-200433-kgcn",
-      "title": "Hime Utsumiya",
-      "commanders": [
-        "Hime Utsumiya"
-      ],
-      "dateStart": "2026-05-24T10:04:33.000Z",
-      "dateEnd": "2026-05-24T11:00:27.000Z",
-      "dateLabel": "24/05/2026, 20:04:33 - 24/05/2026, 21:00:27",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260524-200433-kgcn",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 28,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260523-122841-43j7",
-      "title": "Jokajo",
-      "commanders": [
-        "Jokajo"
-      ],
-      "dateStart": "2026-05-23T02:28:41.000Z",
-      "dateEnd": "2026-05-23T03:17:32.000Z",
-      "dateLabel": "23/05/2026, 12:28:41 - 23/05/2026, 13:17:32",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260523-122841-43j7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 27,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260522-110129-pcrd",
-      "title": "Jokajo",
-      "commanders": [
-        "Jokajo"
-      ],
-      "dateStart": "2026-05-22T01:01:29.000Z",
-      "dateEnd": "2026-05-22T01:40:30.000Z",
-      "dateLabel": "22/05/2026, 11:01:29 - 22/05/2026, 11:40:30",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260522-110129-pcrd",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 39,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260521-122918-vwxm",
-      "title": "Get On Me",
-      "commanders": [
-        "Get On Me"
-      ],
-      "dateStart": "2026-05-21T02:29:18.000Z",
-      "dateEnd": "2026-05-21T03:11:45.000Z",
-      "dateLabel": "21/05/2026, 12:29:18 - 21/05/2026, 13:11:45",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260521-122918-vwxm",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 37,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260516-120840-8oju",
-      "title": "Get On Me",
-      "commanders": [
-        "Get On Me"
-      ],
-      "dateStart": "2026-05-16T02:08:40.000Z",
-      "dateEnd": "2026-05-16T03:31:04.000Z",
-      "dateLabel": "16/05/2026, 12:08:40 - 16/05/2026, 13:31:04",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260516-120840-8oju",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 18,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 38,
-        "avgEnemySize": 53
-      }
-    },
-    {
-      "id": "20260514-203304-8t8j",
-      "title": "Hime Utsumiya",
-      "commanders": [
-        "Hime Utsumiya"
-      ],
-      "dateStart": "2026-05-14T10:33:04.000Z",
-      "dateEnd": "2026-05-14T11:49:52.000Z",
-      "dateLabel": "14/05/2026, 20:33:04 - 14/05/2026, 21:49:52",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260514-203304-8t8j",
-      "summary": {
-        "borderlandsPct": 0.05263157894736842,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 18,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260514-110340-3lll",
-      "title": "Get On Me",
-      "commanders": [
-        "Get On Me"
-      ],
-      "dateStart": "2026-05-14T01:03:40.000Z",
-      "dateEnd": "2026-05-14T02:22:57.000Z",
-      "dateLabel": "14/05/2026, 11:03:40 - 14/05/2026, 12:22:57",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260514-110340-3lll",
-      "summary": {
-        "borderlandsPct": 0.375,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 15,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 9,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260513-231732-uik9",
-      "title": "Enrique Roddriguez",
-      "commanders": [
-        "Enrique Roddriguez"
-      ],
-      "dateStart": "2026-05-13T13:17:32.000Z",
-      "dateEnd": "2026-05-13T14:06:14.000Z",
-      "dateLabel": "13/05/2026, 23:17:32 - 14/05/2026, 00:06:14",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260513-231732-uik9",
-      "summary": {
-        "borderlandsPct": 0.2857142857142857,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 8,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260509-120823-gfia",
-      "title": "Gear Check For Bads",
-      "commanders": [
-        "Gear Check For Bads"
-      ],
-      "dateStart": "2026-05-09T02:08:23.000Z",
-      "dateEnd": "2026-05-09T03:27:53.000Z",
-      "dateLabel": "09/05/2026, 12:08:23 - 09/05/2026, 13:27:53",
-      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260509-120823-gfia",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 21,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 44,
-        "avgEnemySize": 40
-      }
+      "avgSquadSize": 31,
+      "avgEnemySize": 38
     }
-  ]
-}
+  },
+  {
+    "id": "20260608-224816-z7l2",
+    "title": "The Bloöp",
+    "commanders": [
+      "The Bloöp"
+    ],
+    "dateStart": "2026-06-08T12:48:16.000Z",
+    "dateEnd": "2026-06-08T13:56:17.000Z",
+    "dateLabel": "08/06/2026, 22:48:16 - 08/06/2026, 23:56:17",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-224816-z7l2",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 53
+    }
+  },
+  {
+    "id": "20260608-125919-sx87",
+    "title": "X Kears",
+    "commanders": [
+      "X Kears"
+    ],
+    "dateStart": "2026-06-08T02:59:19.000Z",
+    "dateEnd": "2026-06-08T04:34:09.000Z",
+    "dateLabel": "08/06/2026, 12:59:19 - 08/06/2026, 14:34:09",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-125919-sx87",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 41,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 49
+    }
+  },
+  {
+    "id": "20260608-120107-j7sf",
+    "title": "Ebs Nine",
+    "commanders": [
+      "Ebs Nine"
+    ],
+    "dateStart": "2026-06-08T02:01:07.000Z",
+    "dateEnd": "2026-06-08T02:05:56.000Z",
+    "dateLabel": "08/06/2026, 12:01:07 - 08/06/2026, 12:05:56",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-120107-j7sf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260608-103534-j99a",
+    "title": "Ebs Nine, Nallusion",
+    "commanders": [
+      "Ebs Nine",
+      "Nallusion"
+    ],
+    "dateStart": "2026-06-08T00:35:34.000Z",
+    "dateEnd": "2026-06-08T01:39:29.000Z",
+    "dateLabel": "08/06/2026, 10:35:34 - 08/06/2026, 11:39:29",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260608-103534-j99a",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 54
+    }
+  },
+  {
+    "id": "20260607-223324-aw4u",
+    "title": "The Bloöp",
+    "commanders": [
+      "The Bloöp"
+    ],
+    "dateStart": "2026-06-07T12:33:24.000Z",
+    "dateEnd": "2026-06-07T13:55:53.000Z",
+    "dateLabel": "07/06/2026, 22:33:24 - 07/06/2026, 23:55:53",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260607-223324-aw4u",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260606-230151-v9eo",
+    "title": "The Bloöp",
+    "commanders": [
+      "The Bloöp"
+    ],
+    "dateStart": "2026-06-06T13:01:51.000Z",
+    "dateEnd": "2026-06-06T13:59:39.000Z",
+    "dateLabel": "06/06/2026, 23:01:51 - 06/06/2026, 23:59:39",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260606-230151-v9eo",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260604-200618-ih5l",
+    "title": "Erza Knightwálkér",
+    "commanders": [
+      "Erza Knightwálkér"
+    ],
+    "dateStart": "2026-06-04T10:06:18.000Z",
+    "dateEnd": "2026-06-04T10:58:05.000Z",
+    "dateLabel": "04/06/2026, 20:06:18 - 04/06/2026, 20:58:05",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260604-200618-ih5l",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 35,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260602-200936-k2wy",
+    "title": "Erza Knightwálkér",
+    "commanders": [
+      "Erza Knightwálkér"
+    ],
+    "dateStart": "2026-06-02T10:09:36.000Z",
+    "dateEnd": "2026-06-02T11:02:22.000Z",
+    "dateLabel": "02/06/2026, 20:09:36 - 02/06/2026, 21:02:22",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260602-200936-k2wy",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 32,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 39
+    }
+  },
+  {
+    "id": "20260531-201927-naab",
+    "title": "Erza Knightwálkér",
+    "commanders": [
+      "Erza Knightwálkér"
+    ],
+    "dateStart": "2026-05-31T10:19:27.000Z",
+    "dateEnd": "2026-05-31T12:05:51.000Z",
+    "dateLabel": "31/05/2026, 20:19:27 - 31/05/2026, 22:05:51",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260531-201927-naab",
+    "summary": {
+      "borderlandsPct": 0.038461538461538464,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 53
+    }
+  },
+  {
+    "id": "20260530-124421-q9kn",
+    "title": "Dan Is My New Name, Yxck",
+    "commanders": [
+      "Dan Is My New Name",
+      "Yxck"
+    ],
+    "dateStart": "2026-05-30T02:44:21.000Z",
+    "dateEnd": "2026-05-30T03:36:57.000Z",
+    "dateLabel": "30/05/2026, 12:44:21 - 30/05/2026, 13:36:57",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260530-124421-q9kn",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 21,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 11,
+      "avgEnemySize": 11
+    }
+  },
+  {
+    "id": "20260528-231517-lbb0",
+    "title": "Enrique Roddriguez",
+    "commanders": [
+      "Enrique Roddriguez"
+    ],
+    "dateStart": "2026-05-28T13:15:17.000Z",
+    "dateEnd": "2026-05-28T14:37:21.000Z",
+    "dateLabel": "28/05/2026, 23:15:17 - 29/05/2026, 00:37:21",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-231517-lbb0",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260528-201653-rsio",
+    "title": "Hime Utsumiya",
+    "commanders": [
+      "Hime Utsumiya"
+    ],
+    "dateStart": "2026-05-28T10:16:53.000Z",
+    "dateEnd": "2026-05-28T11:13:06.000Z",
+    "dateLabel": "28/05/2026, 20:16:53 - 28/05/2026, 21:13:06",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-201653-rsio",
+    "summary": {
+      "borderlandsPct": 0.05,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260528-121716-fnzs",
+    "title": "Get On Me",
+    "commanders": [
+      "Get On Me"
+    ],
+    "dateStart": "2026-05-28T02:17:16.000Z",
+    "dateEnd": "2026-05-28T03:07:26.000Z",
+    "dateLabel": "28/05/2026, 12:17:16 - 28/05/2026, 13:07:26",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260528-121716-fnzs",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 15,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260527-230626-mndt",
+    "title": "Enrique Roddriguez",
+    "commanders": [
+      "Enrique Roddriguez"
+    ],
+    "dateStart": "2026-05-27T13:06:26.000Z",
+    "dateEnd": "2026-05-27T13:52:29.000Z",
+    "dateLabel": "27/05/2026, 23:06:26 - 27/05/2026, 23:52:29",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260527-230626-mndt",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 29,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 55
+    }
+  },
+  {
+    "id": "20260526-201621-pri6",
+    "title": "Hime Utsumiya",
+    "commanders": [
+      "Hime Utsumiya"
+    ],
+    "dateStart": "2026-05-26T10:16:21.000Z",
+    "dateEnd": "2026-05-26T11:30:50.000Z",
+    "dateLabel": "26/05/2026, 20:16:21 - 26/05/2026, 21:30:50",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260526-201621-pri6",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 10,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260526-184812-5sva",
+    "title": "Skylla Winds",
+    "commanders": [
+      "Skylla Winds"
+    ],
+    "dateStart": "2026-05-26T08:48:12.000Z",
+    "dateEnd": "2026-05-26T09:37:27.000Z",
+    "dateLabel": "26/05/2026, 18:48:12 - 26/05/2026, 19:37:27",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260526-184812-5sva",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 36,
+      "avgEnemySize": 51
+    }
+  },
+  {
+    "id": "20260524-200433-kgcn",
+    "title": "Hime Utsumiya",
+    "commanders": [
+      "Hime Utsumiya"
+    ],
+    "dateStart": "2026-05-24T10:04:33.000Z",
+    "dateEnd": "2026-05-24T11:00:27.000Z",
+    "dateLabel": "24/05/2026, 20:04:33 - 24/05/2026, 21:00:27",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260524-200433-kgcn",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 28,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260523-122841-43j7",
+    "title": "Jokajo",
+    "commanders": [
+      "Jokajo"
+    ],
+    "dateStart": "2026-05-23T02:28:41.000Z",
+    "dateEnd": "2026-05-23T03:17:32.000Z",
+    "dateLabel": "23/05/2026, 12:28:41 - 23/05/2026, 13:17:32",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260523-122841-43j7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 27,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260522-110129-pcrd",
+    "title": "Jokajo",
+    "commanders": [
+      "Jokajo"
+    ],
+    "dateStart": "2026-05-22T01:01:29.000Z",
+    "dateEnd": "2026-05-22T01:40:30.000Z",
+    "dateLabel": "22/05/2026, 11:01:29 - 22/05/2026, 11:40:30",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260522-110129-pcrd",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 39,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260521-122918-vwxm",
+    "title": "Get On Me",
+    "commanders": [
+      "Get On Me"
+    ],
+    "dateStart": "2026-05-21T02:29:18.000Z",
+    "dateEnd": "2026-05-21T03:11:45.000Z",
+    "dateLabel": "21/05/2026, 12:29:18 - 21/05/2026, 13:11:45",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260521-122918-vwxm",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 37,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260516-120840-8oju",
+    "title": "Get On Me",
+    "commanders": [
+      "Get On Me"
+    ],
+    "dateStart": "2026-05-16T02:08:40.000Z",
+    "dateEnd": "2026-05-16T03:31:04.000Z",
+    "dateLabel": "16/05/2026, 12:08:40 - 16/05/2026, 13:31:04",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260516-120840-8oju",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 18,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 53
+    }
+  },
+  {
+    "id": "20260514-203304-8t8j",
+    "title": "Hime Utsumiya",
+    "commanders": [
+      "Hime Utsumiya"
+    ],
+    "dateStart": "2026-05-14T10:33:04.000Z",
+    "dateEnd": "2026-05-14T11:49:52.000Z",
+    "dateLabel": "14/05/2026, 20:33:04 - 14/05/2026, 21:49:52",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260514-203304-8t8j",
+    "summary": {
+      "borderlandsPct": 0.05263157894736842,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 18,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260514-110340-3lll",
+    "title": "Get On Me",
+    "commanders": [
+      "Get On Me"
+    ],
+    "dateStart": "2026-05-14T01:03:40.000Z",
+    "dateEnd": "2026-05-14T02:22:57.000Z",
+    "dateLabel": "14/05/2026, 11:03:40 - 14/05/2026, 12:22:57",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260514-110340-3lll",
+    "summary": {
+      "borderlandsPct": 0.375,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260513-231732-uik9",
+    "title": "Enrique Roddriguez",
+    "commanders": [
+      "Enrique Roddriguez"
+    ],
+    "dateStart": "2026-05-13T13:17:32.000Z",
+    "dateEnd": "2026-05-13T14:06:14.000Z",
+    "dateLabel": "13/05/2026, 23:17:32 - 14/05/2026, 00:06:14",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260513-231732-uik9",
+    "summary": {
+      "borderlandsPct": 0.2857142857142857,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 8,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260509-120823-gfia",
+    "title": "Gear Check For Bads",
+    "commanders": [
+      "Gear Check For Bads"
+    ],
+    "dateStart": "2026-05-09T02:08:23.000Z",
+    "dateEnd": "2026-05-09T03:27:53.000Z",
+    "dateLabel": "09/05/2026, 12:08:23 - 09/05/2026, 13:27:53",
+    "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260509-120823-gfia",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 21,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 44,
+      "avgEnemySize": 40
+    }
+  }
+]
