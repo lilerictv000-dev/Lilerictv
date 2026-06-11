@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260611-003138-6oqm",
+      "title": "Ebs Nine, The Bloöp",
+      "commanders": [
+        "Ebs Nine",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-10T14:31:38.000Z",
+      "dateEnd": "2026-06-11T00:15:34.000Z",
+      "dateLabel": "11/06/2026, 00:31:38 - 11/06/2026, 10:15:34",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260611-003138-6oqm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260610-224204-8eek",
       "title": "The Bloöp",
       "commanders": [
