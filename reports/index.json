@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-225145-qi6t",
+      "title": "Its Bloop, Nyoôm",
+      "commanders": [
+        "Its Bloop",
+        "Nyoôm"
+      ],
+      "dateStart": "2026-06-12T12:51:45.000Z",
+      "dateEnd": "2026-06-12T13:45:25.000Z",
+      "dateLabel": "12/06/2026, 22:51:45 - 12/06/2026, 23:45:25",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260612-225145-qi6t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260612-144932-tf86",
       "title": "X Kears",
       "commanders": [
