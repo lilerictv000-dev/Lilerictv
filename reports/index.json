@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260612-144932-tf86",
+      "title": "X Kears",
+      "commanders": [
+        "X Kears"
+      ],
+      "dateStart": "2026-06-12T04:49:32.000Z",
+      "dateEnd": "2026-06-12T05:31:43.000Z",
+      "dateLabel": "12/06/2026, 14:49:32 - 12/06/2026, 15:31:43",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260612-144932-tf86",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260611-091650-lisx",
       "title": "Ebs Nine",
       "commanders": [
