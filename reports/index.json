@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-200502-fh7g",
+      "title": "You Guard Myst",
+      "commanders": [
+        "You Guard Myst"
+      ],
+      "dateStart": "2026-06-14T10:05:02.000Z",
+      "dateEnd": "2026-06-14T10:47:35.000Z",
+      "dateLabel": "14/06/2026, 20:05:02 - 14/06/2026, 20:47:35",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260614-200502-fh7g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260612-225145-qi6t",
       "title": "Its Bloop, Nyoôm",
       "commanders": [
