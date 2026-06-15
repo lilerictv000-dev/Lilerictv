@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-232350-i1b8",
+      "title": "You Guard Myst",
+      "commanders": [
+        "You Guard Myst"
+      ],
+      "dateStart": "2026-06-14T13:23:50.000Z",
+      "dateEnd": "2026-06-14T14:20:30.000Z",
+      "dateLabel": "14/06/2026, 23:23:50 - 15/06/2026, 00:20:30",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260614-232350-i1b8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260614-232350-5tqx",
       "title": "You Guard Myst",
       "commanders": [
