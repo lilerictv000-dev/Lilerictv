@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260618-095939-43z3",
+      "title": "Ebs Nine, Nallusion",
+      "commanders": [
+        "Ebs Nine",
+        "Nallusion"
+      ],
+      "dateStart": "2026-06-17T23:59:39.000Z",
+      "dateEnd": "2026-06-18T00:50:18.000Z",
+      "dateLabel": "18/06/2026, 09:59:39 - 18/06/2026, 10:50:18",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260618-095939-43z3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260616-200047-jjgq",
       "title": "You Guard Myst",
       "commanders": [
