@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260625-201623-9pr3",
+      "title": "Sakura Lvcy",
+      "commanders": [
+        "Sakura Lvcy"
+      ],
+      "dateStart": "2026-06-25T10:16:23.000Z",
+      "dateEnd": "2026-06-25T11:59:09.000Z",
+      "dateLabel": "25/06/2026, 20:16:23 - 25/06/2026, 21:59:09",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260625-201623-9pr3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260618-125641-uf83",
       "title": "X Kears",
       "commanders": [
