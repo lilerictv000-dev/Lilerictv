@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-230743-63ut",
+      "title": "Mithril Champion",
+      "commanders": [
+        "Mithril Champion"
+      ],
+      "dateStart": "2026-06-26T13:07:43.000Z",
+      "dateEnd": "2026-06-26T14:46:32.000Z",
+      "dateLabel": "26/06/2026, 23:07:43 - 27/06/2026, 00:46:32",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260626-230743-63ut",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260625-201623-9pr3",
       "title": "Sakura Lvcy",
       "commanders": [
