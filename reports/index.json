@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260628-223929-4hph",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-06-28T12:39:29.000Z",
+      "dateEnd": "2026-06-28T13:34:54.000Z",
+      "dateLabel": "28/06/2026, 22:39:29 - 28/06/2026, 23:34:54",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260628-223929-4hph",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260626-230743-63ut",
       "title": "Mithril Champion",
       "commanders": [
