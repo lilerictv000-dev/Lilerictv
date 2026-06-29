@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-123750-huwl",
+      "title": "No Stab Allowed, Strikey M",
+      "commanders": [
+        "No Stab Allowed",
+        "Strikey M"
+      ],
+      "dateStart": "2026-06-29T02:37:50.000Z",
+      "dateEnd": "2026-06-29T04:06:02.000Z",
+      "dateLabel": "29/06/2026, 12:37:50 - 29/06/2026, 14:06:02",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260629-123750-huwl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 22,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260629-110636-e6xu",
       "title": "No Stab Allowed, Strikey M",
       "commanders": [
