@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-231433-bzvs",
+      "title": "Mithril Champion",
+      "commanders": [
+        "Mithril Champion"
+      ],
+      "dateStart": "2026-07-03T13:14:33.000Z",
+      "dateEnd": "2026-07-03T14:08:57.000Z",
+      "dateLabel": "03/07/2026, 23:14:33 - 04/07/2026, 00:08:57",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260703-231433-bzvs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 34,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260701-110653-ts2y",
       "title": "No Stab Allowed",
       "commanders": [
