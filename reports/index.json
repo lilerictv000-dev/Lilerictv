@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-232701-wawe",
+      "title": "Big Myst Tiny Strip",
+      "commanders": [
+        "Big Myst Tiny Strip"
+      ],
+      "dateStart": "2026-07-10T13:27:01.000Z",
+      "dateEnd": "2026-07-10T14:25:04.000Z",
+      "dateLabel": "10/07/2026, 23:27:01 - 11/07/2026, 00:25:04",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260710-232701-wawe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260709-094126-9jnk",
       "title": "Ebs Nine",
       "commanders": [
