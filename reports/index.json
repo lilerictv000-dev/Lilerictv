@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-195808-4n6p",
+      "title": "You Guard Myst",
+      "commanders": [
+        "You Guard Myst"
+      ],
+      "dateStart": "2026-07-26T09:58:08.000Z",
+      "dateEnd": "2026-07-26T11:54:03.000Z",
+      "dateLabel": "26/07/2026, 19:58:08 - 26/07/2026, 21:54:03",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260726-195808-4n6p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260725-201232-x0xd",
       "title": "You Guard Myst",
       "commanders": [
