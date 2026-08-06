@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-095833-96jp",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-05T23:58:33.000Z",
+      "dateEnd": "2026-08-06T00:59:02.000Z",
+      "dateLabel": "06/08/2026, 09:58:33 - 06/08/2026, 10:59:02",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260806-095833-96jp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260806-095833-pwre",
       "title": "Ebs Nine",
       "commanders": [
