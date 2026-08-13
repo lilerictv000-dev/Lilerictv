@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-104838-nf2n",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-13T00:48:38.000Z",
+      "dateEnd": "2026-08-13T01:25:54.000Z",
+      "dateLabel": "13/08/2026, 10:48:38 - 13/08/2026, 11:25:54",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260813-104838-nf2n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 24,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260811-200855-ikmc",
       "title": "Squirel Halucinates",
       "commanders": [
