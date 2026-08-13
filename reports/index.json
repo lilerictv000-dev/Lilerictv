@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260813-205612-ypxt",
+      "title": "You Guard Myst",
+      "commanders": [
+        "You Guard Myst"
+      ],
+      "guild": {
+        "id": "F9F82CBF-0E94-E811-81A8-A25FC8B1A2FE",
+        "name": "Elite Archaeologists",
+        "tag": "eA"
+      },
+      "dateStart": "2026-08-13T10:56:12.000Z",
+      "dateEnd": "2026-08-13T11:56:02.000Z",
+      "dateLabel": "13/08/2026, 20:56:12 - 13/08/2026, 21:56:02",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260813-205612-ypxt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260813-205612-m0yz",
       "title": "You Guard Myst",
       "commanders": [
