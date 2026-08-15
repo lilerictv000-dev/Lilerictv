@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-121049-pk8y",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "203C51CC-BAA9-EE11-BA1F-124BD09C5957",
+        "name": "The Unemployed Blob",
+        "tag": "TUB"
+      },
+      "dateStart": "2026-08-15T02:10:49.000Z",
+      "dateEnd": "2026-08-15T03:36:12.000Z",
+      "dateLabel": "15/08/2026, 12:10:49 - 15/08/2026, 13:36:12",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260815-121049-pk8y",
+      "summary": {
+        "borderlandsPct": 0.38095238095238093,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260814-123901-albd",
       "title": "Jul The Nineth",
       "commanders": [
