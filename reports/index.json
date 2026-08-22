@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-212543-n2xf",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-08-22T11:25:43.000Z",
+      "dateEnd": "2026-08-22T12:12:53.257Z",
+      "dateLabel": "22/08/2026, 21:25:43 - 22/08/2026, 22:12:53",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260822-212543-n2xf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260821-230946-6nle",
       "title": "Misaki Lily, Mithril Champion",
       "commanders": [
