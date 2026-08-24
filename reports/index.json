@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-210036-c3l0",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-08-24T11:00:36.000Z",
+      "dateEnd": "2026-08-24T12:07:18.031Z",
+      "dateLabel": "24/08/2026, 21:00:36 - 24/08/2026, 22:07:18",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260824-210036-c3l0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260823-195849-pbs8",
       "title": "Big Myst Tiny Strip",
       "commanders": [
