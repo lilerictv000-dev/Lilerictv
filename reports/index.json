@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-210608-9qy0",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-08-26T11:06:08.000Z",
+      "dateEnd": "2026-08-26T11:51:03.701Z",
+      "dateLabel": "26/08/2026, 21:06:08 - 26/08/2026, 21:51:03",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260826-210608-9qy0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260825-203357-d9l3",
       "title": "Big Myst Tiny Strip",
       "commanders": [
