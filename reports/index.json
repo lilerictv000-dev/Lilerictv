@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-204923-b07j",
+      "title": "Big Myst Tiny Strip",
+      "commanders": [
+        "Big Myst Tiny Strip"
+      ],
+      "guild": {
+        "id": "F9F82CBF-0E94-E811-81A8-A25FC8B1A2FE",
+        "name": "Elite Archaeologists",
+        "tag": "eA"
+      },
+      "dateStart": "2026-08-27T10:49:23.000Z",
+      "dateEnd": "2026-08-27T11:50:41.879Z",
+      "dateLabel": "27/08/2026, 20:49:23 - 27/08/2026, 21:50:41",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260827-204923-b07j",
+      "summary": {
+        "borderlandsPct": 0.14814814814814814,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260826-232426-lbhk",
       "title": "Sêxy Riddle",
       "commanders": [
