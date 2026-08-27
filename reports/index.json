@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-002641-f48u",
+      "title": "Sêxy Riddle",
+      "commanders": [
+        "Sêxy Riddle"
+      ],
+      "guild": {
+        "id": "BBC7CDF4-0241-E611-80D4-E4115BDFF975",
+        "name": "World Elite",
+        "tag": "WE"
+      },
+      "dateStart": "2026-08-27T14:26:41.000Z",
+      "dateEnd": "2026-08-27T14:54:56.282Z",
+      "dateLabel": "28/08/2026, 00:26:41 - 28/08/2026, 00:54:56",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260828-002641-f48u",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260827-204923-b07j",
       "title": "Big Myst Tiny Strip",
       "commanders": [
