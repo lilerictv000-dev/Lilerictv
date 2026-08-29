@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-121710-yzqr",
+      "title": "Çrônôs",
+      "commanders": [
+        "Çrônôs"
+      ],
+      "guild": {
+        "id": "67CCE22B-180D-EC11-81AB-F50023EE1BF3",
+        "name": "Down To Fîght",
+        "tag": "DTF"
+      },
+      "dateStart": "2026-08-29T02:17:10.000Z",
+      "dateEnd": "2026-08-29T03:26:29.310Z",
+      "dateLabel": "29/08/2026, 12:17:10 - 29/08/2026, 13:26:29",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260829-121710-yzqr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260828-002641-f48u",
       "title": "Sêxy Riddle",
       "commanders": [
