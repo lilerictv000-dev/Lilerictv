@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-211145-evl3",
+      "title": "Squirel Halucinates",
+      "commanders": [
+        "Squirel Halucinates"
+      ],
+      "guild": {
+        "id": "76D6654A-806A-4E77-AB4D-4F7661024D79",
+        "name": "Standard Of Heroes",
+        "tag": "SoX"
+      },
+      "dateStart": "2026-08-29T11:11:45.000Z",
+      "dateEnd": "2026-08-29T11:54:28.482Z",
+      "dateLabel": "29/08/2026, 21:11:45 - 29/08/2026, 21:54:28",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260829-211145-evl3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260829-121710-yzqr",
       "title": "Çrônôs",
       "commanders": [
