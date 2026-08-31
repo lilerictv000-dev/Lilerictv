@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-201711-w70p",
+      "title": "Mr Draeyon",
+      "commanders": [
+        "Mr Draeyon"
+      ],
+      "guild": {
+        "id": "19DBFD41-F09D-F011-8465-02315AB41281",
+        "name": "Quick Build Siege",
+        "tag": "PALS"
+      },
+      "dateStart": "2026-08-31T10:17:11.000Z",
+      "dateEnd": "2026-08-31T11:05:15.306Z",
+      "dateLabel": "31/08/2026, 20:17:11 - 31/08/2026, 21:05:15",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260831-201711-w70p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260831-001835-3zij",
       "title": "Riddle The Nobody",
       "commanders": [
