@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-230654-06ka",
+      "title": "Mithril Legend",
+      "commanders": [
+        "Mithril Legend"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-03T13:06:54.000Z",
+      "dateEnd": "2026-09-03T13:57:24.209Z",
+      "dateLabel": "03/09/2026, 23:06:54 - 03/09/2026, 23:57:24",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260903-230654-06ka",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 26,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260903-115755-ejh4",
       "title": "Ebs Nine",
       "commanders": [
