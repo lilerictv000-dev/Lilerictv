@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-115755-ejh4",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "1D589CCE-656C-ED11-8465-02315AB41281",
+        "name": "Meter Monkeys",
+        "tag": "PUMP"
+      },
+      "dateStart": "2026-09-03T01:57:55.000Z",
+      "dateEnd": "2026-09-03T02:29:27.380Z",
+      "dateLabel": "03/09/2026, 11:57:55 - 03/09/2026, 12:29:27",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260903-115755-ejh4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260831-201711-w70p",
       "title": "Mr Draeyon",
       "commanders": [
