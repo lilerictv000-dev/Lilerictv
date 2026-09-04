@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-121812-x8b0",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-09-04T02:18:12.000Z",
+      "dateEnd": "2026-09-04T03:01:02.693Z",
+      "dateLabel": "04/09/2026, 12:18:12 - 04/09/2026, 13:01:02",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260904-121812-x8b0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260903-230654-ygka",
       "title": "Mithril Legend",
       "commanders": [
