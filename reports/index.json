@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-233059-wp3o",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-09-06T13:30:59.000Z",
+      "dateEnd": "2026-09-06T14:17:55.972Z",
+      "dateLabel": "06/09/2026, 23:30:59 - 07/09/2026, 00:17:55",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260906-233059-wp3o",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260906-201703-4c4i",
       "title": "Big Myst Tiny Strip",
       "commanders": [
