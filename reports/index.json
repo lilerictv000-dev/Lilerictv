@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260908-210633-l1uc",
+      "title": "Big Myst Tiny Strip",
+      "commanders": [
+        "Big Myst Tiny Strip"
+      ],
+      "guild": {
+        "id": "F9F82CBF-0E94-E811-81A8-A25FC8B1A2FE",
+        "name": "Elite Archaeologists",
+        "tag": "eA"
+      },
+      "dateStart": "2026-09-08T11:06:33.000Z",
+      "dateEnd": "2026-09-08T11:57:50.327Z",
+      "dateLabel": "08/09/2026, 21:06:33 - 08/09/2026, 21:57:50",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260908-210633-l1uc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260906-233059-wp3o",
       "title": "Furry Fluffy Fur",
       "commanders": [
