@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-233416-i26w",
+      "title": "Mithril Legend",
+      "commanders": [
+        "Mithril Legend"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-09T13:34:16.000Z",
+      "dateEnd": "2026-09-09T14:24:34.595Z",
+      "dateLabel": "09/09/2026, 23:34:16 - 10/09/2026, 00:24:34",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260909-233416-i26w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260908-210633-l1uc",
       "title": "Big Myst Tiny Strip",
       "commanders": [
