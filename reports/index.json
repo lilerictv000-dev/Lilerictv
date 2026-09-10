@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-122341-ky7a",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "1D589CCE-656C-ED11-8465-02315AB41281",
+        "name": "Meter Monkeys",
+        "tag": "PUMP"
+      },
+      "dateStart": "2026-09-10T02:23:41.000Z",
+      "dateEnd": "2026-09-10T03:01:16.030Z",
+      "dateLabel": "10/09/2026, 12:23:41 - 10/09/2026, 13:01:16",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260910-122341-ky7a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260909-233416-i26w",
       "title": "Mithril Legend",
       "commanders": [
