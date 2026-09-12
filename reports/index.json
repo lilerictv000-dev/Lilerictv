@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-002240-6guv",
+      "title": "Furry Fluffy Fur",
+      "commanders": [
+        "Furry Fluffy Fur"
+      ],
+      "guild": {
+        "id": "D7F29084-A69C-F111-BB1F-12683E7B69EB",
+        "name": "Downsize",
+        "tag": "XXV"
+      },
+      "dateStart": "2026-09-12T14:22:40.000Z",
+      "dateEnd": "2026-09-12T14:56:19.964Z",
+      "dateLabel": "13/09/2026, 00:22:40 - 13/09/2026, 00:56:19",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260913-002240-6guv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260912-130442-gigu",
       "title": "No Stab Allowed",
       "commanders": [
