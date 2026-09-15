@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-105759-rv2l",
+      "title": "Nallusion",
+      "commanders": [
+        "Nallusion"
+      ],
+      "guild": {
+        "id": "81153AB9-23AB-F111-BB1E-129A72F3745D",
+        "name": "In Our Dreams",
+        "tag": "FOXY"
+      },
+      "dateStart": "2026-09-15T00:57:59.000Z",
+      "dateEnd": "2026-09-15T02:29:39.655Z",
+      "dateLabel": "15/09/2026, 10:57:59 - 15/09/2026, 12:29:39",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260915-105759-rv2l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260914-112336-g3d5",
       "title": "Sofa King Bloodiee",
       "commanders": [
