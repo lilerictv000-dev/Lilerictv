@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260917-130717-8olo",
+      "title": "Nallusion",
+      "commanders": [
+        "Nallusion"
+      ],
+      "guild": {
+        "id": "B5B6C3A8-F678-E811-81A8-A25FC8B1A2FE",
+        "name": "Occulta Potestas",
+        "tag": "OP"
+      },
+      "dateStart": "2026-09-17T03:07:17.000Z",
+      "dateEnd": "2026-09-17T03:50:31.752Z",
+      "dateLabel": "17/09/2026, 13:07:17 - 17/09/2026, 13:50:31",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260917-130717-8olo",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260916-211328-j5wp",
       "title": "Big Myst Tiny Strip",
       "commanders": [
