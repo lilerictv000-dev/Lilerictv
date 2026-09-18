@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-210025-r86g",
+      "title": "Big Myst Tiny Strip, You Guard Myst",
+      "commanders": [
+        "Big Myst Tiny Strip",
+        "You Guard Myst"
+      ],
+      "guild": {
+        "id": "F9F82CBF-0E94-E811-81A8-A25FC8B1A2FE",
+        "name": "Elite Archaeologists",
+        "tag": "eA"
+      },
+      "dateStart": "2026-09-18T11:00:25.000Z",
+      "dateEnd": "2026-09-18T12:02:48.198Z",
+      "dateLabel": "18/09/2026, 21:00:25 - 18/09/2026, 22:02:48",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20260918-210025-r86g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260918-110937-3rjr",
       "title": "Ebs Nine",
       "commanders": [
