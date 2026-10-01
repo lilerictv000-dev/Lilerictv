@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20261001-104625-p9tm",
+      "title": "No Stab Allowed",
+      "commanders": [
+        "No Stab Allowed"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-10-01T00:46:25.000Z",
+      "dateEnd": "2026-10-01T01:22:22.950Z",
+      "dateLabel": "01/10/2026, 10:46:25 - 01/10/2026, 11:22:22",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261001-104625-p9tm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260926-232027-kbro",
       "title": "Big Myst Tiny Strip",
       "commanders": [
