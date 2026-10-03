@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-225330-u5fb",
+      "title": "Jul The Nineth",
+      "commanders": [
+        "Jul The Nineth"
+      ],
+      "guild": {
+        "id": "CEA1F40F-23DF-4950-BCDA-7AB68572C104",
+        "name": "Apathy Inc",
+        "tag": "Ai"
+      },
+      "dateStart": "2026-10-03T12:53:30.000Z",
+      "dateEnd": "2026-10-03T13:50:04.741Z",
+      "dateLabel": "03/10/2026, 22:53:30 - 03/10/2026, 23:50:04",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261003-225330-u5fb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20261003-121359-zml7",
       "title": "No Stab Allowed",
       "commanders": [
