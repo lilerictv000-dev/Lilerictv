@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261005-133652-v3x7",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "8426C16E-F5BE-F111-BB1E-129A72F3745D",
+        "name": "The Forest Guards",
+        "tag": "TFG"
+      },
+      "dateStart": "2026-10-05T02:36:52.000Z",
+      "dateEnd": "2026-10-05T03:04:15.352Z",
+      "dateLabel": "05/10/2026, 13:36:52 - 05/10/2026, 14:04:15",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261005-133652-v3x7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20261005-111801-lfze",
       "title": "Incredible Bloodiee",
       "commanders": [
