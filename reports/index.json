@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261006-124739-h9cg",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-10-06T01:47:39.000Z",
+      "dateEnd": "2026-10-06T02:34:16.778Z",
+      "dateLabel": "06/10/2026, 12:47:39 - 06/10/2026, 13:34:16",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261006-124739-h9cg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20261005-133652-v3x7",
       "title": "Incredible Bloodiee",
       "commanders": [
