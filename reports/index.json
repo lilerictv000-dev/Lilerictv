@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.21.0"
+    "version": "3.22.1"
   },
   "entries": [
+    {
+      "id": "20261008-130744-g5wn",
+      "title": "Incredible Bloodiee",
+      "commanders": [
+        "Incredible Bloodiee"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-10-08T02:07:44.000Z",
+      "dateEnd": "2026-10-08T02:48:01.006Z",
+      "dateLabel": "08/10/2026, 13:07:44 - 08/10/2026, 13:48:01",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261008-130744-g5wn",
+      "publishedBy": "lilerictv000-dev",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20261006-123803-ixz1",
       "title": "Incredible Bloodiee",
