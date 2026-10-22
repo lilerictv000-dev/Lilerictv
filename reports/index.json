@@ -5,9 +5,44 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261022-121958-96wh",
+      "title": "Ebs Nine, Nallusion",
+      "commanders": [
+        "Ebs Nine",
+        "Nallusion"
+      ],
+      "guild": {
+        "id": "BA676D9E-5670-4693-874D-6CD8AB48F0ED",
+        "name": "Violent Resolution",
+        "tag": "VR"
+      },
+      "dateStart": "2026-10-22T01:19:58.000Z",
+      "dateEnd": "2026-10-22T02:12:18.927Z",
+      "dateLabel": "22/10/2026, 12:19:58 - 22/10/2026, 13:12:18",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261022-121958-96wh",
+      "publishedBy": "lilerictv000-dev",
+      "summary": {
+        "borderlandsPct": 0.64,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261008-130744-g5wn",
       "title": "Incredible Bloodiee",
