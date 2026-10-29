@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261029-114611-mi0h",
+      "title": "Ebs Nine",
+      "commanders": [
+        "Ebs Nine"
+      ],
+      "guild": {
+        "id": "1D589CCE-656C-ED11-8465-02315AB41281",
+        "name": "Meter Monkeys",
+        "tag": "PUMP"
+      },
+      "dateStart": "2026-10-29T00:46:11.000Z",
+      "dateEnd": "2026-10-29T01:34:57.112Z",
+      "dateLabel": "29/10/2026, 11:46:11 - 29/10/2026, 12:34:57",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261029-114611-mi0h",
+      "publishedBy": "lilerictv000-dev",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 54
+      }
+    },
     {
       "id": "20261023-132645-lu60",
       "title": "No Stab Allowed",
