@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261030-124616-a2ug",
+      "title": "No Stab Allowed, Strikey M",
+      "commanders": [
+        "No Stab Allowed",
+        "Strikey M"
+      ],
+      "guild": {
+        "id": "00319855-0ADE-E511-80D4-E4115BEBA648",
+        "name": "Didnt Even Dodge",
+        "tag": "DED"
+      },
+      "dateStart": "2026-10-30T01:46:16.000Z",
+      "dateEnd": "2026-10-30T02:32:36.884Z",
+      "dateLabel": "30/10/2026, 12:46:16 - 30/10/2026, 13:32:36",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261030-124616-a2ug",
+      "publishedBy": "lilerictv000-dev",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20261029-114611-mi0h",
       "title": "Ebs Nine",
       "commanders": [
