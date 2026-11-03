@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.10"
+    "version": "3.22.11"
   },
   "entries": [
+    {
+      "id": "20261103-203826-46ng",
+      "title": "Diamond Legend",
+      "commanders": [
+        "Diamond Legend"
+      ],
+      "guild": {
+        "id": "FE74034D-213F-E411-863C-E4115BDF481D",
+        "name": "Delayed",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-03T09:38:26.000Z",
+      "dateEnd": "2026-11-03T11:03:05.726Z",
+      "dateLabel": "03/11/2026, 20:38:26 - 03/11/2026, 22:03:05",
+      "url": "https://lilerictv000-dev.github.io/Lilerictv/?report=20261103-203826-46ng",
+      "publishedBy": "lilerictv000-dev",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 19,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 13
+      }
+    },
     {
       "id": "20261030-124616-a2ug",
       "title": "No Stab Allowed, Strikey M",
